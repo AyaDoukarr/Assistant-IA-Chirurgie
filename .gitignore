@@ -1,0 +1,6 @@
+# Ignorer modèles et gros fichiers
+my_qa_model/
+*.pdf
+*.pptx
+*.png
+.DS_Store
